@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "6710a2c869927184",
+    "type": "split",
+    "children": [
+      {
+        "id": "4cb3f7cbc9b64f6c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe0fa6624ccd96d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "786419052bbd8ad0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcc4822acd11d9ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6fc4fba3c13de5bc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72b28a681560e6fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "734a2b5cc248233d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1560a2d9383b7661",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4cb3f7cbc9b64f6c",
+  "lastOpenFiles": [
+    "README.md",
+    "Android.md",
+    "Rappi.md",
+    "Recruiter-HHRR.md",
+    "Common used code.md",
+    "Programming.md",
+    "Kotlin.md"
+  ]
+}
