@@ -32,7 +32,6 @@ Object-Oriented Programming (or OOP) is a paradigm of programming in which progr
 
 Object-Oriented Programming is a methodology of designing a program using classes, objects, [inheritance](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)),[polymorphism](https://en.wikipedia.org/wiki/Polymorphism_(computer_science)), [abstraction](https://en.wikipedia.org/wiki/Abstraction_(software_engineering)) and [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)).
 
-
 #### Encapsulation
 The binding of data and methods into a single unit is called encapsulation. Encapsulation is accomplished when each object inside the class keeps its state private. The data inside this unit is not accessible by outside objects, and only those functions inside this unit are able to access it. Thus, the object manages its state with the help of its methods and communicates with this object; we will require the help of the public methods of this class.
 

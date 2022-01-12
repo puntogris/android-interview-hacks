@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4cb3f7cbc9b64f6c",
+        "id": "1d9e8a6cd907a9ce",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
-            "mode": "source"
+            "file": "hacks/Programming.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "hacks/Programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,14 +86,14 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4cb3f7cbc9b64f6c",
+  "active": "1d9e8a6cd907a9ce",
   "lastOpenFiles": [
+    "hacks/Programming.md",
+    "hacks/Common used code.md",
+    "hacks/Android.md",
     "README.md",
-    "Android.md",
     "Rappi.md",
     "Recruiter-HHRR.md",
-    "Common used code.md",
-    "Programming.md",
     "Kotlin.md"
   ]
 }
