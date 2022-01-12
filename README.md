@@ -6,5 +6,4 @@ Mainly from here [Mindorks interview questions](https://github.com/MindorksOpenS
 
 As most of them have links to answers, i tried to make a resume and added a few more.
 
-Made with Obsidian.
-
+Made with [Obsidian](https://obsidian.md/)
